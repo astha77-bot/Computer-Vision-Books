@@ -1,4 +1,4 @@
-#Computer Vision and Convulational neural network Books
+# Computer Vision and Convulational neural network Books
 I have curated some of the best books related to Machine Learning, Deep Learning and Computer Vision. 
 ### 1.Programming Computer Vision with Python
 -Jan Erik Solem
